@@ -3,6 +3,6 @@ public class Toto {
 
 	// hey!hey! Modifions la classe Toto 
 	
-	int Tata; 
+	public static int Tata = 0; 
 	
 }
