@@ -6,4 +6,5 @@ public class Toto {
 	public static int Tata = 0; 
 	// TEST slack integration
 	
+	// test test test
 }
